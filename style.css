@@ -1,0 +1,31 @@
+.card-header{
+    background-color: cadetblue;
+}
+
+.card-body{
+    background-color: cadetblue;
+    color:darkcyan
+}
+
+.row{
+    background-color: white;
+}
+
+
+button{
+    border-radius: 12px;
+    background-color: white;
+    color:darkcyan;
+    border: 2px solid cadetblue;
+    margin-bottom: 5px;
+    -webkit-transition-duration: 0,4s;   
+    transition-duration: 0.4s; 
+    
+}
+
+button:hover{
+    background-color: darkcyan; 
+    color: white;
+}
+
+button:focus {outline: 0;}
